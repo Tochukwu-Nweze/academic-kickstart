@@ -20,9 +20,9 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include early childhood experiences, brain development, cognition 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Early childhood experiences
+- Brain development
+- Cognition
 
 education:
   courses:
